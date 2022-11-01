@@ -1,2 +1,4 @@
 # Calandario-copa
-Projeto feito com a intensão de informar as pessoas que irão acompanhar os jogos da copa, com um calendário completo.
+Projeto ensinado pela Rocketseat no evento NLW COPA, com intuito aprender novas funções com HTML, CSS e JavaScript.
+
+Esse projeto feito para mostrar o calendário dos jogos da Copa do Mundo, mostrando o dia e o horário, afim de informar quem está acompanhando a Copa do Mundo.
