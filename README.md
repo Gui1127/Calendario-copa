@@ -5,5 +5,5 @@ Esse projeto feito para mostrar o calendário dos jogos da Copa do Mundo, mostra
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="600em" src="https://cdn.discordapp.com/attachments/715870834249564192/1037902601435484311/img_03-11-22.jpeg"/>
+  <img src="https://cdn.discordapp.com/attachments/715870834249564192/1037902601435484311/img_03-11-22.jpeg"/>
 </div>
