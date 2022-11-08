@@ -12,7 +12,7 @@ Projeto ensinado pela Rocketseat no evento NLW COPA, com intuito aprender novas 
 <br>
 
 <p align="center">
-  <img alt="Imagem do Projeto" src="https://cdn.discordapp.com/attachments/715870834249564192/1038941588757426286/image.png" width="100%">
+  <img alt="Imagem do Projeto" src="https://cdn.discordapp.com/attachments/715870834249564192/1039336812457500744/image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
